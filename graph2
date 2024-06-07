@@ -1,0 +1,12 @@
+digraph {
+	1 [label=bharath]
+	2 [label=praysun]
+	3 [label=sanjay]
+	4 [label=sujan]
+	5 [label=vignesh]
+	5 -> 4
+	5 -> 3
+	4 -> 3
+	1 -> 5
+	2 -> 1
+}
